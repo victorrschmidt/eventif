@@ -1,5 +1,6 @@
 .eventif
-__pycache__
+.python-version
 *.sqlite3
+__pycache__
 .env
 staticfiles
